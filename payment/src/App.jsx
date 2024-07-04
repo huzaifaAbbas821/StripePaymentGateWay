@@ -17,7 +17,7 @@ const App = () => {
           backgroundPosition: "center",
         }}
       >
-        <div className="text-[#f5c22a] text-center py-[10vw] md:py-[4vw] text-[4vh] md:text-[3.2vw] font-bold">
+        <div className="text-[#f5c22a] text-center py-[8vw] md:py-[2vw] text-[4vh] md:text-[3.2vw] font-bold">
           Payment Method
         </div>
         <div className="w-full flex flex-col gap-[2vw] justify-center items-center rounded-xl px-4">
