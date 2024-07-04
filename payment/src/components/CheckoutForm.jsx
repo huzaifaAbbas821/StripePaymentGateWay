@@ -52,7 +52,7 @@ const CheckoutForm = () => {
           headers: {
             "Content-Type": "application/json",
           },
-          body: JSON.stringify( {amount: coupon === 'itsAizaz' ?  (5000 * 0.9) : 5000 }), // Specify the payment amount in the smallest currency unit
+          body: JSON.stringify( {amount: coupon === 'itsAizaz' ?  (4000 * 0.9) : 4000 }), // Specify the payment amount in the smallest currency unit
         }
       );
 
